@@ -15,7 +15,7 @@ div.container{
     margin-top: 5%;
 }
 #digital_clock {
-    /*font-size: 5rem;*/
+    font-size: 5rem;
     width: 100%;
     color: greenyellow;
     text-align: center;
